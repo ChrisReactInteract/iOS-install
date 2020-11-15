@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://10.10.0.66:8484/assets/install/Guestband_POC.ipa</string>
+					<string>https://chrisreactinteract.github.io/iOS-install/install/Guestband_POC.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
