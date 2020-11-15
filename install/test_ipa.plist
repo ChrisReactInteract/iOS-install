@@ -15,7 +15,7 @@
           <string>software-package</string>
           <!-- required. the URL of the file to download. -->
           <key>url</key>
-          <string>https://10.10.0.66:8484/assets/install/uepPortal.ipa</string>
+          <string>https://chrisreactinteract.github.io/iOS-install/install/uepPortal.ipa</string>
         </dict>
         <!-- display-image: the icon to display during download.-->
         <dict>
@@ -25,7 +25,7 @@
          <key>needs-shine</key>
          <true/>
          <key>url</key>
-         <string>https://10.10.0.66:8484/assets/install/rilogo57.png</string>
+         <string>https://chrisreactinteract.github.io/iOS-install/install/rilogo57.png</string>
         </dict>
         <!-- full-size-image: the large 512x512 icon used by iTunes. -->
         <dict>
@@ -33,7 +33,7 @@
          <string>full-size-image</string>
          <key>needs-shine</key>
          <true/>
-         <key>url</key><string>https://10.10.0.66:8484/assets/install/rilogo512.png</string>
+         <key>url</key><string>https://chrisreactinteract.github.io/iOS-install/install/rilogo512.png</string>
         </dict>
       </array>
 <key>metadata</key>
